@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.auth/
+private/
+raw-photos/
+*.tmp
+__pycache__/
+*.pyc
