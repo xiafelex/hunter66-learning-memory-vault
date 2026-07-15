@@ -117,7 +117,7 @@ def load_vocabulary() -> list[dict[str, Any]]:
 
 
 def save_vocabulary(words: list[dict[str, Any]]) -> None:
-    PRIVATE.mkdir(parents=True, exist_ok=True)
+    VOCABULARY.parent.mkdir(parents=True, exist_ok=True)
     VOCABULARY.write_text(json.dumps(words, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
