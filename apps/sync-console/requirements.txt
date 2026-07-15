@@ -1,2 +1,2 @@
-pyobjc>=10
 edge-tts>=7
+pyobjc>=10; sys_platform == "darwin"

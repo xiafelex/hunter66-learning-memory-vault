@@ -48,7 +48,8 @@ WECHAT_EXPORT = Path.home() / "Library" / "Application Support" / "Hunter66" / "
 NATIVE_AGENT = Path.home() / "Library" / "Application Support" / "Hunter66" / "Hunter66SyncAgent.app" / "Contents" / "MacOS" / "Hunter66SyncAgent"
 WECHAT_CLI = Path.home() / ".local" / "bin" / "wechat-cli"
 WECHAT_CLI_CONFIG = Path.home() / ".config" / "wxcli" / "config.json"
-EDGE_TTS = APP / ".venv" / "bin" / "edge-tts"
+VENV_SCRIPTS = APP / ".venv" / ("Scripts" if os.name == "nt" else "bin")
+EDGE_TTS = VENV_SCRIPTS / ("edge-tts.exe" if os.name == "nt" else "edge-tts")
 TEACHERS = {
     "蔡老师": {"subject": "语文", "aliases": ("蔡老师", "西瓜瓜西", "语文-蔡老师")},
     "刘老师": {"subject": "数学", "aliases": ("易歆", "数学-刘老师", "刘老师")},
