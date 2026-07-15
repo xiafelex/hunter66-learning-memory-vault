@@ -6,3 +6,11 @@ raw-photos/
 *.tmp
 __pycache__/
 *.pyc
+apps/sync-console/node_modules/
+apps/sync-console/dist/
+apps/sync-console/.venv/
+private/sync-console/
+data/raw-inputs/wechat/
+data/raw-inputs/qq/
+data/teacher-requirements/*-wechat-*.md
+data/teacher-requirements/*-qq-*.md

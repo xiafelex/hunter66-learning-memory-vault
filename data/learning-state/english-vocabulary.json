@@ -1,0 +1,1135 @@
+[
+  {
+    "id": "bdbcb41bc3fc",
+    "word": "because",
+    "meaning": "因为",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:41:41+08:00",
+    "updated_at": "2026-07-13T13:11:52+08:00",
+    "ket_word_id": "d1ef4731ec5c",
+    "mistake_count": 1,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T20:49:53+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:11:52+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "492d94c42c22",
+    "word": "bettle",
+    "meaning": "",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:42:26+08:00",
+    "updated_at": "2026-07-13T13:07:21+08:00",
+    "ket_word_id": "",
+    "mistake_count": 5,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T20:53:49+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:00:47+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:02:52+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:13:07+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:17:20+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:07:21+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "76b5341e8eda",
+    "word": "crocodile",
+    "meaning": "鱷魚",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:42:33+08:00",
+    "updated_at": "2026-07-13T13:07:41+08:00",
+    "ket_word_id": "c1673dcace52",
+    "mistake_count": 4,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T20:53:56+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:01:31+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:03:20+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:13:34+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:07:41+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "6e54eaad95cf",
+    "word": "eagle",
+    "meaning": "鹰",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:42:47+08:00",
+    "updated_at": "2026-07-13T13:59:14+08:00",
+    "ket_word_id": "c29e4d9c8824",
+    "mistake_count": 4,
+    "mastery_level": 0,
+    "next_review": "2026-07-13",
+    "review_history": [
+      {
+        "at": "2026-07-12T20:54:05+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:03:32+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:10:25+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-13T13:59:14+08:00",
+        "result": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "beb7c9cb20f7",
+    "word": "swan",
+    "meaning": "天鵝",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:45:51+08:00",
+    "updated_at": "2026-07-13T13:16:28+08:00",
+    "ket_word_id": "1f4f476af99d",
+    "mistake_count": 1,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T20:55:07+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:16:28+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "3fe7c745b8e3",
+    "word": "octopus",
+    "meaning": "八爪鱼",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:46:10+08:00",
+    "updated_at": "2026-07-13T13:08:17+08:00",
+    "ket_word_id": "460b8dde3c37",
+    "mistake_count": 3,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T20:54:14+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:04:16+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:13:50+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:08:17+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "74c99999ab3f",
+    "word": "beetle",
+    "meaning": "甲虫",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:46:20+08:00",
+    "updated_at": "2026-07-13T13:09:25+08:00",
+    "ket_word_id": "23668cd2cdff",
+    "mistake_count": 2,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T20:53:41+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:00:23+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:09:25+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "f5ea3f32b5a9",
+    "word": "recipe",
+    "meaning": "食谱",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:46:53+08:00",
+    "updated_at": "2026-07-13T14:01:55+08:00",
+    "ket_word_id": "e2a2270c8ad2",
+    "mistake_count": 3,
+    "mastery_level": 0,
+    "next_review": "2026-07-13",
+    "review_history": [
+      {
+        "at": "2026-07-12T20:54:57+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:15:07+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-13T14:01:55+08:00",
+        "result": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "b42d4b58b9d5",
+    "word": "prize",
+    "meaning": "奖品",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:47:13+08:00",
+    "updated_at": "2026-07-13T13:10:58+08:00",
+    "ket_word_id": "92969bb9ea65",
+    "mistake_count": 2,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T20:54:27+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:04:43+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:10:58+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "51282298d19f",
+    "word": "pharmacy",
+    "meaning": "药房",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:48:09+08:00",
+    "updated_at": "2026-07-13T14:01:37+08:00",
+    "ket_word_id": "adfa59cc50d2",
+    "mistake_count": 3,
+    "mastery_level": 0,
+    "next_review": "2026-07-13",
+    "review_history": [
+      {
+        "at": "2026-07-12T20:54:21+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:14:50+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-13T14:01:37+08:00",
+        "result": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "1ad59f2c8d5f",
+    "word": "ambulance",
+    "meaning": "ambulance",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:55:44+08:00",
+    "updated_at": "2026-07-13T13:08:04+08:00",
+    "ket_word_id": "d036c1331f70",
+    "mistake_count": 3,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T21:05:15+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:14:30+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:17:40+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:08:04+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "af23238deab1",
+    "word": "quarter",
+    "meaning": "季度",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:56:19+08:00",
+    "updated_at": "2026-07-14T22:34:21+08:00",
+    "ket_word_id": "7fa1f94325c1",
+    "mistake_count": 4,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": [
+      {
+        "at": "2026-07-12T21:11:52+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:16:48+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:17:59+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:08:35+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-14T22:34:21+08:00",
+        "result": "再次录入"
+      }
+    ]
+  },
+  {
+    "id": "f38f12f38140",
+    "word": "scissors",
+    "meaning": "剪刀",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:56:35+08:00",
+    "updated_at": "2026-07-13T13:58:25+08:00",
+    "ket_word_id": "fb8e7c920326",
+    "mistake_count": 4,
+    "mastery_level": 1,
+    "next_review": "2026-07-14",
+    "review_history": [
+      {
+        "at": "2026-07-12T21:12:21+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:17:09+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:18:16+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:09:15+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-13T13:58:25+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "f6bd0d10818b",
+    "word": "curtain",
+    "meaning": "窗帘",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:56:56+08:00",
+    "updated_at": "2026-07-13T13:58:55+08:00",
+    "ket_word_id": "c8158837c0d3",
+    "mistake_count": 4,
+    "mastery_level": 0,
+    "next_review": "2026-07-13",
+    "review_history": [
+      {
+        "at": "2026-07-12T21:08:30+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:15:14+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:10:09+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-13T13:58:55+08:00",
+        "result": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "f7af767c3e12",
+    "word": "oven",
+    "meaning": "烤炉",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:57:05+08:00",
+    "updated_at": "2026-07-13T13:14:26+08:00",
+    "ket_word_id": "c534ed71ba41",
+    "mistake_count": 1,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T21:10:55+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:14:26+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "33674d935cbe",
+    "word": "grilld",
+    "meaning": "",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:57:18+08:00",
+    "updated_at": "2026-07-13T13:10:37+08:00",
+    "ket_word_id": "",
+    "mistake_count": 2,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T21:09:12+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:15:33+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:10:37+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "151ccd010c4f",
+    "word": "steak",
+    "meaning": "排骨",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:57:44+08:00",
+    "updated_at": "2026-07-13T14:02:24+08:00",
+    "ket_word_id": "a7694d21c4ff",
+    "mistake_count": 2,
+    "mastery_level": 1,
+    "next_review": "2026-07-14",
+    "review_history": [
+      {
+        "at": "2026-07-12T21:12:44+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:15:55+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-13T14:02:24+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "3071b3ed7053",
+    "word": "cereal",
+    "meaning": "麦片",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:57:57+08:00",
+    "updated_at": "2026-07-13T13:58:37+08:00",
+    "ket_word_id": "1a44e94804d4",
+    "mistake_count": 3,
+    "mastery_level": 1,
+    "next_review": "2026-07-14",
+    "review_history": [
+      {
+        "at": "2026-07-12T21:06:55+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:15:02+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:09:52+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-13T13:58:37+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "63ab6c6cbd48",
+    "word": "comb",
+    "meaning": "COMB",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:58:23+08:00",
+    "updated_at": "2026-07-13T13:12:41+08:00",
+    "ket_word_id": "e51f8984adcc",
+    "mistake_count": 1,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T21:07:39+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:12:41+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "ed7c233da1e2",
+    "word": "autumn",
+    "meaning": "秋天",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:58:36+08:00",
+    "updated_at": "2026-07-13T13:11:22+08:00",
+    "ket_word_id": "91fb64276c08",
+    "mistake_count": 1,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T21:06:01+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:11:22+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "87a54b8ddd18",
+    "word": "machine",
+    "meaning": "机器",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:58:53+08:00",
+    "updated_at": "2026-07-13T13:59:27+08:00",
+    "ket_word_id": "7817c52b2560",
+    "mistake_count": 3,
+    "mastery_level": 0,
+    "next_review": "2026-07-13",
+    "review_history": [
+      {
+        "at": "2026-07-12T21:09:40+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:13:14+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-13T13:59:27+08:00",
+        "result": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "b02c3ccf2076",
+    "word": "petrol",
+    "meaning": "n.油",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T20:59:09+08:00",
+    "updated_at": "2026-07-13T13:10:47+08:00",
+    "ket_word_id": "477c1c920ab6",
+    "mistake_count": 2,
+    "mastery_level": 2,
+    "next_review": "2026-07-16",
+    "review_history": [
+      {
+        "at": "2026-07-12T21:11:17+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-12T21:15:43+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-13T13:10:47+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "5927dcc20bae",
+    "word": "hoodie",
+    "meaning": "卫衣",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T21:18:54+08:00",
+    "updated_at": "2026-07-13T13:12:51+08:00",
+    "ket_word_id": "57ae957ed037",
+    "mistake_count": 1,
+    "mastery_level": 1,
+    "next_review": "2026-07-14",
+    "review_history": [
+      {
+        "at": "2026-07-13T13:12:51+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "b522c0bb1891",
+    "word": "rucksack",
+    "meaning": "",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T21:19:10+08:00",
+    "updated_at": "2026-07-13T14:02:15+08:00",
+    "ket_word_id": "",
+    "mistake_count": 3,
+    "mastery_level": 0,
+    "next_review": "2026-07-13",
+    "review_history": [
+      {
+        "at": "2026-07-13T13:15:32+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-13T14:02:15+08:00",
+        "result": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "72227125a9cf",
+    "word": "olympic",
+    "meaning": "奧林匹克",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T21:19:55+08:00",
+    "updated_at": "2026-07-13T14:00:38+08:00",
+    "ket_word_id": "918d5b50d4e0",
+    "mistake_count": 2,
+    "mastery_level": 1,
+    "next_review": "2026-07-14",
+    "review_history": [
+      {
+        "at": "2026-07-13T13:14:19+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-13T14:00:38+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "a1361f915c22",
+    "word": "trousers",
+    "meaning": "裤子",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T21:20:23+08:00",
+    "updated_at": "2026-07-13T13:16:39+08:00",
+    "ket_word_id": "432e9fa24ab5",
+    "mistake_count": 1,
+    "mastery_level": 1,
+    "next_review": "2026-07-14",
+    "review_history": [
+      {
+        "at": "2026-07-13T13:16:39+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "61b9e4d6388d",
+    "word": "chilli",
+    "meaning": "辣椒",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-12T21:21:18+08:00",
+    "updated_at": "2026-07-13T13:12:34+08:00",
+    "ket_word_id": "aff8c5c7a347",
+    "mistake_count": 1,
+    "mastery_level": 1,
+    "next_review": "2026-07-14",
+    "review_history": [
+      {
+        "at": "2026-07-13T13:12:34+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "a61c23ce5435",
+    "word": "bit",
+    "meaning": "位",
+    "error_type": "拼写",
+    "source": "KET 单词测试",
+    "note": "",
+    "created_at": "2026-07-14T21:12:28+08:00",
+    "updated_at": "2026-07-14T22:19:31+08:00",
+    "ket_word_id": "026e996a3a58",
+    "mistake_count": 1,
+    "mastery_level": 2,
+    "next_review": "2026-07-17",
+    "review_history": [
+      {
+        "at": "2026-07-14T22:16:32+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-14T22:19:31+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "83ffae7210b6",
+    "word": "thank",
+    "meaning": "感谢",
+    "error_type": "拼写",
+    "source": "KET 单词测试",
+    "note": "",
+    "created_at": "2026-07-14T21:12:46+08:00",
+    "updated_at": "2026-07-14T22:20:06+08:00",
+    "ket_word_id": "c4121f6a6c69",
+    "mistake_count": 1,
+    "mastery_level": 3,
+    "next_review": "2026-07-21",
+    "review_history": [
+      {
+        "at": "2026-07-14T22:02:37+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-14T22:15:57+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-14T22:20:06+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "15edcf5f31fb",
+    "word": "sightseeing",
+    "meaning": "暂未补充释义",
+    "error_type": "拼写",
+    "source": "KET 单词测试",
+    "note": "",
+    "created_at": "2026-07-14T21:23:25+08:00",
+    "updated_at": "2026-07-14T22:20:15+08:00",
+    "ket_word_id": "f4c0053901c7",
+    "mistake_count": 2,
+    "mastery_level": 2,
+    "next_review": "2026-07-17",
+    "review_history": [
+      {
+        "at": "2026-07-14T22:02:28+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-14T22:15:48+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-14T22:20:15+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "54f81b4e2211",
+    "word": "crowd",
+    "meaning": "人群",
+    "error_type": "拼写",
+    "source": "KET 单词测试",
+    "note": "",
+    "created_at": "2026-07-14T21:33:11+08:00",
+    "updated_at": "2026-07-14T22:19:39+08:00",
+    "ket_word_id": "c3bd87ad7652",
+    "mistake_count": 2,
+    "mastery_level": 1,
+    "next_review": "2026-07-15",
+    "review_history": [
+      {
+        "at": "2026-07-14T22:16:11+08:00",
+        "result": "unknown"
+      },
+      {
+        "at": "2026-07-14T22:19:39+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "000072f7df89",
+    "word": "party",
+    "meaning": "派对",
+    "error_type": "拼写",
+    "source": "KET 单词测试",
+    "note": "",
+    "created_at": "2026-07-14T21:33:39+08:00",
+    "updated_at": "2026-07-14T22:19:27+08:00",
+    "ket_word_id": "84beb18831cf",
+    "mistake_count": 1,
+    "mastery_level": 2,
+    "next_review": "2026-07-17",
+    "review_history": [
+      {
+        "at": "2026-07-14T22:16:19+08:00",
+        "result": "known"
+      },
+      {
+        "at": "2026-07-14T22:19:27+08:00",
+        "result": "known"
+      }
+    ]
+  },
+  {
+    "id": "b6bcece5abae",
+    "word": "directions",
+    "meaning": "方向",
+    "error_type": "拼写",
+    "source": "KET 单词测试",
+    "note": "",
+    "created_at": "2026-07-14T22:18:34+08:00",
+    "updated_at": "2026-07-14T22:20:00+08:00",
+    "ket_word_id": "2c84217183dd",
+    "mistake_count": 2,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": [
+      {
+        "at": "2026-07-14T22:20:00+08:00",
+        "result": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "62bb314d9bad",
+    "word": "bracelet",
+    "meaning": "手鐲",
+    "error_type": "拼写",
+    "source": "KET 单词测试",
+    "note": "",
+    "created_at": "2026-07-14T22:26:58+08:00",
+    "updated_at": "2026-07-14T22:37:39+08:00",
+    "ket_word_id": "9e3650e87f83",
+    "mistake_count": 2,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": [
+      {
+        "at": "2026-07-14T22:37:39+08:00",
+        "result": "再次录入"
+      }
+    ]
+  },
+  {
+    "id": "6b37808c2507",
+    "word": "advanced",
+    "meaning": "高级",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-14T22:28:07+08:00",
+    "updated_at": "2026-07-14T22:28:07+08:00",
+    "ket_word_id": "e62854369199",
+    "mistake_count": 1,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": []
+  },
+  {
+    "id": "4940eca5237e",
+    "word": "explore",
+    "meaning": "发现",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-14T22:28:57+08:00",
+    "updated_at": "2026-07-14T22:28:57+08:00",
+    "ket_word_id": "9dda9754b3ee",
+    "mistake_count": 1,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": []
+  },
+  {
+    "id": "5a5d9f9eb292",
+    "word": "cabinet",
+    "meaning": "橱柜",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-14T22:29:37+08:00",
+    "updated_at": "2026-07-14T22:29:37+08:00",
+    "ket_word_id": "69d203a8af1a",
+    "mistake_count": 1,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": []
+  },
+  {
+    "id": "f9058907ad12",
+    "word": "quiz",
+    "meaning": "测验",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-14T22:30:15+08:00",
+    "updated_at": "2026-07-14T22:30:15+08:00",
+    "ket_word_id": "d501d3ec02af",
+    "mistake_count": 1,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": []
+  },
+  {
+    "id": "92e925005e0e",
+    "word": "physics",
+    "meaning": "物理学",
+    "error_type": "拼写",
+    "source": "KET 单词测试",
+    "note": "",
+    "created_at": "2026-07-14T22:31:05+08:00",
+    "updated_at": "2026-07-14T22:36:10+08:00",
+    "ket_word_id": "4122fa5d5121",
+    "mistake_count": 2,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": [
+      {
+        "at": "2026-07-14T22:36:10+08:00",
+        "result": "再次录入"
+      }
+    ]
+  },
+  {
+    "id": "3f6ff2bbb90b",
+    "word": "question",
+    "meaning": "问问题",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-14T22:31:24+08:00",
+    "updated_at": "2026-07-14T22:31:24+08:00",
+    "ket_word_id": "3b2be2e26344",
+    "mistake_count": 1,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": []
+  },
+  {
+    "id": "5cc4271b3844",
+    "word": "nationality",
+    "meaning": "⺠ 族",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-14T22:32:11+08:00",
+    "updated_at": "2026-07-14T22:32:11+08:00",
+    "ket_word_id": "5f2321ee78ec",
+    "mistake_count": 1,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": []
+  },
+  {
+    "id": "84adf91ef813",
+    "word": "various",
+    "meaning": "各种",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-14T22:32:33+08:00",
+    "updated_at": "2026-07-14T22:32:33+08:00",
+    "ket_word_id": "7942c90e546d",
+    "mistake_count": 1,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": []
+  },
+  {
+    "id": "8ff115a1b9d7",
+    "word": "certainly",
+    "meaning": "的确",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-14T22:33:01+08:00",
+    "updated_at": "2026-07-14T22:33:01+08:00",
+    "ket_word_id": "2146c08a66ed",
+    "mistake_count": 1,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": []
+  },
+  {
+    "id": "f4c9bd0fe63e",
+    "word": "advertisement",
+    "meaning": "廣告",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-14T22:33:33+08:00",
+    "updated_at": "2026-07-14T22:33:33+08:00",
+    "ket_word_id": "f264e6fd3269",
+    "mistake_count": 1,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": []
+  },
+  {
+    "id": "e0271fade560",
+    "word": "price",
+    "meaning": "价格",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-14T22:34:09+08:00",
+    "updated_at": "2026-07-14T22:34:09+08:00",
+    "ket_word_id": "2097c33723b6",
+    "mistake_count": 1,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": []
+  },
+  {
+    "id": "d0238ce27aec",
+    "word": "several",
+    "meaning": "几个",
+    "error_type": "拼写",
+    "source": "KET 单词测试",
+    "note": "",
+    "created_at": "2026-07-14T22:34:37+08:00",
+    "updated_at": "2026-07-14T22:38:17+08:00",
+    "ket_word_id": "b2eea5ed0cec",
+    "mistake_count": 2,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": [
+      {
+        "at": "2026-07-14T22:38:17+08:00",
+        "result": "再次录入"
+      }
+    ]
+  },
+  {
+    "id": "d4a063acda68",
+    "word": "scared",
+    "meaning": "害怕的",
+    "error_type": "拼写",
+    "source": "听写",
+    "note": "",
+    "created_at": "2026-07-14T22:34:40+08:00",
+    "updated_at": "2026-07-14T22:34:40+08:00",
+    "ket_word_id": "34305c61a64c",
+    "mistake_count": 1,
+    "mastery_level": 0,
+    "next_review": "2026-07-14",
+    "review_history": []
+  }
+]
